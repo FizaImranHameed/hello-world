@@ -1,1 +1,2 @@
-I am a Software Engineer learning about Git/GitHub!~
+# hello-world
+This repository is for practicing the GitHub Flow
